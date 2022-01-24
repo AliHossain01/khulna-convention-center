@@ -1,0 +1,31 @@
+/* custom font */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.fa-check-circle {
+    color: #5243C2;
+}
+
+.white {
+    color: #fff;
+}
+
+p {
+    color: #6C6C6C;
+}
+
+.content-bold {
+    font-weight: 600;
+}
+
+.panda-btn-buy-now {
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    /* background-image: linear-gradient(to bottom, #a1dfc5 0%, #b6ccc5 100%); */
+    background-color: #5243C2;
+}
